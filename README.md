@@ -1,0 +1,2 @@
+# CSharpAcademy
+Random practice projects 
