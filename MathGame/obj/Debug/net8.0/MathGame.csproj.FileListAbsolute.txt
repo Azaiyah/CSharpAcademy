@@ -1,0 +1,15 @@
+/workspace/CSharpAcademy/MathGame/bin/Debug/net8.0/MathGame
+/workspace/CSharpAcademy/MathGame/bin/Debug/net8.0/MathGame.deps.json
+/workspace/CSharpAcademy/MathGame/bin/Debug/net8.0/MathGame.runtimeconfig.json
+/workspace/CSharpAcademy/MathGame/bin/Debug/net8.0/MathGame.dll
+/workspace/CSharpAcademy/MathGame/bin/Debug/net8.0/MathGame.pdb
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfoInputs.cache
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfo.cs
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.csproj.CoreCompileInputs.cache
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.sourcelink.json
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.dll
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/refint/MathGame.dll
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.pdb
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/MathGame.genruntimeconfig.cache
+/workspace/CSharpAcademy/MathGame/obj/Debug/net8.0/ref/MathGame.dll
