@@ -7,6 +7,8 @@
 // Math game - 4 different modes (add, substract, mulitply, divide), 5 rounds
 
 
+using System.Security.Cryptography.X509Certificates;
+
 void Menu()
 {
     Console.WriteLine("-----------------------------------------");
@@ -17,10 +19,24 @@ void Menu()
     Console.WriteLine("-----------------------------------------");
 }
 
-int Add()
+int Add(int x, int y)
 {
-    Random rand = new Random();
-    
+    return x + y; 
+}
+
+int Substract(int x, int y)
+{
+    return x - y;
+}
+
+int Multiply(int x, int y)
+{
+    return x * y; 
+}
+
+int Divide(int x, int y)
+{
+    return x / y; 
 }
 
 
@@ -33,11 +49,11 @@ string choice = Console.ReadLine();
 switch (choice)
 {
     case "1":
-        Console.WriteLine("Add");
+        Console.WriteLine();
         break; 
     
     case "2":
-        Console.WriteLine("Add");
+        Console.WriteLine();
         break; 
     
     case "3":
